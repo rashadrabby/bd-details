@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(252, 248, 248, 0.76);
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.title{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    color: green;
+    background-image: url(image/logo.png);
+    background-repeat: no-repeat;
+    background-color: rgb(204, 200, 200);
+    height: 80px;
+    padding-top: 30px;
+
+}
+.top{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.left-part p{
+    width: 70%;
+    text-align: justify;
+    
+}
+.left-part h3{
+    font-size: 35px;
+}
+.details a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: honeydew;
+    padding: 12px 35px;
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 4px 4px 12px gray;
+
+}
+.details a:hover{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: honeydew;
+    padding: 12px 35px;
+    border-radius: 10px;
+    background-color: green;
+    box-shadow: 4px 4px 12px gray;
+
+}
+.map img{
+    
+   width: 250px;
+   margin-right: 200px;
+
+}
